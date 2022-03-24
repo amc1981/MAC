@@ -55,6 +55,18 @@
           "URL": "http://linkedin.com/in/antonio-muñiz-casado-5a692557"
         }
       ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      ]
     }
   }
 }
