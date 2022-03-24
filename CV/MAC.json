@@ -51,6 +51,43 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Sistemas Informáticos y Telecomunicaciones.",
+        "startDate": "2000-09-01",
+        "finishDate": "2002-06-01",
+        "institution": {
+          "name": "Salesianos de Atocha",
+          "description": "Ciclo Formativo de Grado Superior (FP II) "
+        },
+        "linkedCompetences": [
+          {
+            "name": "Windows",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Vim",
+            "type": "technology"
+          },
+          {
+            "name": "Unix",
+            "type": "technology"
+          },
+          {
+            "name": "Cisco",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
