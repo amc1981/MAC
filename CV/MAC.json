@@ -54,7 +54,7 @@
   "knowledge": {
     "studies": [
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Sistemas Informáticos y Telecomunicaciones.",
         "startDate": "2000-09-01",
