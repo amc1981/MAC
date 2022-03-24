@@ -49,6 +49,21 @@
         "topic": "Padre de dos",
         "fact": "Esto convalida con +100 en paciencia y +2000 en amor"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Ganbaru",
+        "type": "other",
+        "URL": "https://read.ganbaru.site",
+        "authors": [
+          {
+            "name": "Antonio",
+            "surnames": "Muñiz Casado",
+            "title": "Author"
+          }
+        ],
+        "summary": "Boletín semanal sobre cursos, podcasts, videos o hilos de twitter que han captado mi curiosidad y tal vez capten la tuya..."
+      }
     ]
   },
   "knowledge": {
