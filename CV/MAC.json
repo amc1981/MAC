@@ -8,7 +8,7 @@
     "profile": {
       "name": "Antonio",
       "surnames": "Muñiz Casado",
-      "title": "Sysadmin/Devops",
+      "title": "Sysadmin",
       "description": "He sido operador de sistemas desde 2003. Se unas pocas cosas sobre muchas tecnologías pero no soy un experto en ninguna (generalista techie). Hoy en día me interesan las metodologías y técnicas devops, microservicios, Javascript y el desarrollo web. Trabajo cada día para añadir estas habilidades a mi perfil técnico.\n\n",
       "avatar": {
         "alt": "Fotoperfil.png",
@@ -44,6 +44,10 @@
       {
         "topic": "Bitcoin student",
         "fact": "Me declaro un estudiante de Bitcoin. Es un tema apasionante a tantos niveles, monetario, tecnológico, social, económico que no te lo acabas nunca."
+      },
+      {
+        "topic": "Padre de dos",
+        "fact": "Esto convalida con +100 en paciencia y +2000 en amor"
       }
     ]
   },
