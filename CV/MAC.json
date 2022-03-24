@@ -66,6 +66,46 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "El Corte Inglés",
+          "URL": "https://www.elcorteingles.es"
+        },
+        "roles": [
+          {
+            "name": "Operador de sistemas",
+            "startDate": "2003-01-01",
+            "finishDate": "2016-11-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Unix",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "studies": [
       {
