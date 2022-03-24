@@ -103,6 +103,34 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "IBM",
+          "URL": "https://www.ibm.com"
+        },
+        "roles": [
+          {
+            "name": "Operador de Sistemas",
+            "startDate": "2016-10-01",
+            "finishDate": "2019-04-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Unix",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
