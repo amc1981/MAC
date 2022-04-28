@@ -20,30 +20,30 @@
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/amc1981"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/Antonio_Muniz_C"
-      },
-      {
         "type": "other",
         "URL": "https://antoniomuniz.com/"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/amc1981"
+      },
+      {
         "type": "other",
         "URL": "https://read.ganbaru.site/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Antonio_Muniz_C"
       }
     ],
     "interestingFacts": [
       {
-        "topic": "Bitcoin student",
-        "fact": "Me declaro un estudiante de Bitcoin. Es un tema apasionante a tantos niveles, monetario, tecnológico, social, económico que no te lo acabas nunca."
-      },
-      {
         "topic": "Padre de dos",
         "fact": "Esto convalida con +100 en paciencia y +2000 en amor"
+      },
+      {
+        "topic": "Bitcoin student",
+        "fact": "Me declaro un estudiante de Bitcoin. Es un tema apasionante a tantos niveles, monetario, tecnológico, social, económico que no te lo acabas nunca."
       }
     ],
     "recommendations": [
@@ -64,42 +64,6 @@
   },
   "experience": {
     "jobs": [
-      {
-        "organization": {
-          "name": "El Corte Inglés",
-          "URL": "https://www.elcorteingles.es"
-        },
-        "roles": [
-          {
-            "name": "Operador de sistemas",
-            "startDate": "2003-01-01",
-            "finishDate": "2016-11-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": [
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Unix",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
       {
         "organization": {
           "name": "IBM",
@@ -127,16 +91,47 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "El Corte Inglés",
+          "URL": "https://www.elcorteingles.es"
+        },
+        "roles": [
+          {
+            "name": "Operador de sistemas",
+            "startDate": "2003-01-01",
+            "finishDate": "2016-11-01",
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Unix",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English"
       },
       {
-        "name": "English"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -184,7 +179,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "Windows",
+            "name": "Cisco",
             "type": "technology"
           },
           {
@@ -192,15 +187,15 @@
             "type": "technology"
           },
           {
-            "name": "Vim",
-            "type": "technology"
-          },
-          {
             "name": "Unix",
             "type": "technology"
           },
           {
-            "name": "Cisco",
+            "name": "Vim",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
             "type": "technology"
           }
         ]
@@ -219,11 +214,11 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Python",
+          "name": "Ansible",
           "type": "technology"
         },
         {
-          "name": "Ansible",
+          "name": "Python",
           "type": "technology"
         }
       ]
