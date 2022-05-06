@@ -66,6 +66,23 @@
     "jobs": [
       {
         "organization": {
+          "name": "Kyndryl",
+          "URL": "https://www.linkedin.com/company/kyndryl?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas de TI",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Desde Abril de 2019 mi rol principal es el de tomar requisitos y atender peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo: * Cursar las peticiones correspondientes de: - Alta de nueva infraestructura, On Premise o Cloud(Azure) - Apertura de puertos y montaje de balanceos en F5 - Creación de VPN's site to site entre empresas - Alta de usuario en grupos de LDAP pre-existentes * Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos. * Chequeo y monitorización de infraestructuras en entornos no productivos. * Despliegue de aplicaciones en entornos no productivos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "IBM",
           "URL": "https://www.ibm.com"
         },
@@ -126,14 +143,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      },
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -167,6 +176,46 @@
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Enterprise Design Thinking Practitioner",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "IBM"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Learning Linux Shell Scripting",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "LinkedIn"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Aprende Git",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "LinkedIn"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Gestión de proyectos simplificada",
+        "startDate": "2019-05-01",
+        "finishDate": "2019-05-01",
+        "institution": {
+          "name": "LinkedIn"
+        }
+      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
