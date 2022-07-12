@@ -67,15 +67,38 @@
       {
         "organization": {
           "name": "Kyndryl",
+          "image": {
+            "alt": "logo-kyndryl.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/b7984327-0704-4aad-870e-a9911bb607a8_logo-kyndryl.jpeg"
+          },
           "URL": "https://www.linkedin.com/company/kyndryl?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
           {
             "name": "Administrador de sistemas de TI",
             "startDate": "2021-09-01",
+            "finishDate": "2022-03-01",
             "challenges": [
               {
-                "description": "Desde Abril de 2019 mi rol principal es el de tomar requisitos y atender peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo: * Cursar las peticiones correspondientes de: - Alta de nueva infraestructura, On Premise o Cloud(Azure) - Apertura de puertos y montaje de balanceos en F5 - Creación de VPN's site to site entre empresas - Alta de usuario en grupos de LDAP pre-existentes * Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos. * Chequeo y monitorización de infraestructuras en entornos no productivos. * Despliegue de aplicaciones en entornos no productivos."
+                "description": "Desde Abril de 2019 mi rol principal es el de tomar requisitos y atender peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo:\n* Cursar las peticiones correspondientes de: \n- Alta de nueva infraestructura, On Premise o Cloud(Azure) \n- Apertura de puertos y montaje de balanceos en F5 \n- Creación de VPN's site to site entre empresas \n- Alta de usuario en grupos de LDAP pre-existentes \n* Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos. \n* Chequeo y monitorización de infraestructuras en entornos no productivos. \n* Despliegue de aplicaciones en entornos no productivos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
+                "type": "technology"
               }
             ]
           }
