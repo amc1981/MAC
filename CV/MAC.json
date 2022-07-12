@@ -75,12 +75,12 @@
         },
         "roles": [
           {
-            "name": "Administrador de sistemas de TI",
+            "name": "Platform Assurance Engineer & Project Manager",
             "startDate": "2021-09-01",
             "finishDate": "2022-03-01",
             "challenges": [
               {
-                "description": "Desde Abril de 2019 mi rol principal es el de tomar requisitos y atender peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo:\n* Cursar las peticiones correspondientes de: \n- Alta de nueva infraestructura, On Premise o Cloud(Azure) \n- Apertura de puertos y montaje de balanceos en F5 \n- Creación de VPN's site to site entre empresas \n- Alta de usuario en grupos de LDAP pre-existentes \n* Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos. \n* Chequeo y monitorización de infraestructuras en entornos no productivos. \n* Despliegue de aplicaciones en entornos no productivos."
+                "description": "Toma de requisitos y atención peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo:\n\n* Cursar las peticiones correspondientes de: \n\n  - Alta de nueva infraestructura, On Premise o Cloud(Azure) \n  - Apertura de puertos y montaje de balanceos en F5 \n  - Creación de VPN's site to site entre empresas \n  - Alta de usuario en grupos de LDAP pre-existentes \n\n* Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos. \n\n* Chequeo y monitorización de infraestructuras en entornos no productivos. \n\n* Despliegue de aplicaciones en entornos no productivos."
               }
             ],
             "competences": [
