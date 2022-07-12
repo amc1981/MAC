@@ -147,6 +147,10 @@
       {
         "organization": {
           "name": "El Corte Inglés",
+          "image": {
+            "alt": "logo-eci.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/0a4d4717-658a-489d-ba70-7027574c88f6_logo-eci.png"
+          },
           "URL": "https://www.elcorteingles.es"
         },
         "roles": [
@@ -154,6 +158,11 @@
             "name": "Operador de sistemas",
             "startDate": "2003-01-01",
             "finishDate": "2016-11-01",
+            "challenges": [
+              {
+                "description": "Monitorización y operación de procesos online y batch y alertas relacionadas con Sistemas Operativos(AIX, Windows) o Gestores de Base de datos (Oracle) en servidores distribuidos en Centros Comerciales del Grupo de empresas ECI.\n\nSoporte de primer nivel para varias empresas del grupo (Supercor, Sfera, Supercor Express, Opencor, Telecor, etc). además de soporte de telefónico para el Partner empresarial Sephora."
+              }
+            ],
             "competences": [
               {
                 "name": "Linux",
