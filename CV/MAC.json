@@ -152,8 +152,8 @@
         "roles": [
           {
             "name": "Platform Assurance Engineer & Project Manager",
-            "startDate": "2016-11-01",
-            "finishDate": "2019-04-01",
+            "startDate": "2019-04-01",
+            "finishDate": "2021-09-01",
             "challenges": [
               {
                 "description": "Desde Abril de 2019 mi rol principal es el de tomar requisitos y atender peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo:\n\n* Cursar las peticiones correspondientes de:\n - Alta de nueva infraestructura, On Premise o Cloud (Azure)\n - Apertura de puertos y montaje de balanceos en F5\n - Apertura de peticiones para creación de VPN's site to site entre empresas a los grupos de Seguridad.\n - Alta de usuario en grupos de LDAP pre-existentes\n\n * Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos.\n\n* Chequeo y monitorización de infraestructuras en entornos no productivos.\n\n* Despliegue de aplicaciones en entornos no productivos."
