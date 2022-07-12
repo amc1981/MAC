@@ -69,6 +69,61 @@
           "name": "Kyndryl",
           "image": {
             "alt": "logo-kyndryl.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/fdd8e0c5-da27-4090-ae66-d595e214f3fe_logo-kyndryl.jpeg"
+          },
+          "URL": "https://www.kyndryl.com/es/es"
+        },
+        "roles": [
+          {
+            "name": "SRE/Devops",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "* Administración de clusters Openshift.\n* Troubleshooting de incidencias en infraestructura Openshift.\n* Administración y gestión de usuarios en stack de monitoring ELK.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kyndryl",
+          "image": {
+            "alt": "logo-kyndryl.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/b7984327-0704-4aad-870e-a9911bb607a8_logo-kyndryl.jpeg"
           },
           "URL": "https://www.linkedin.com/company/kyndryl?trk=public_profile_experience-item_profile-section-card_subtitle-click"
