@@ -109,6 +109,53 @@
           "name": "IBM",
           "image": {
             "alt": "NUEVO-LOGO-IBM.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/f7250bfd-0c4c-4b99-abdd-3390b9a884d3_nuevo-logo-ibm.jpg"
+          },
+          "URL": "https://www.ibm.com/es-es"
+        },
+        "roles": [
+          {
+            "name": "Operador de sistemas",
+            "startDate": "2016-11-01",
+            "finishDate": "2019-04-01",
+            "competences": [
+              {
+                "name": "AIX",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Unix",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
+                "type": "technology"
+              },
+              {
+                "name": "Websphere",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM",
+          "image": {
+            "alt": "NUEVO-LOGO-IBM.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/cb8b0e83-79bb-4deb-986d-b7d15ae15c1a_nuevo-logo-ibm.jpg"
           },
           "URL": "https://www.ibm.com"
