@@ -34,6 +34,10 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/Antonio_Muniz_C"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/antonio-mu%C3%B1iz-casado/"
       }
     ],
     "interestingFacts": [
@@ -405,7 +409,7 @@
       "publicProfiles": [
         {
           "type": "linkedin",
-          "URL": "http://linkedin.com/in/antonio-muñiz-casado-5a692557"
+          "URL": "https://www.linkedin.com/in/antonio-mu%C3%B1iz-casado/"
         }
       ]
     },
