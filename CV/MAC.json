@@ -290,18 +290,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AIX",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -327,6 +315,18 @@
       {
         "skill": {
           "name": "ELK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
           "type": "technology"
         }
       }
