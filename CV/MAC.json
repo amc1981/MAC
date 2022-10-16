@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -273,6 +272,33 @@
               },
               {
                 "name": "Unix",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Redactor para blog DSLab",
+          "description": "Entre varios compañeros de trabajo decidimos lanzar un side project en forma de blog. Allí estuvimos escribiendo artículos de diversa temática, cosas más técnicas como instalar \nUbuntu server, hasta como descargar un epub en tu tablet. ",
+          "URL": "https://dslab.es/",
+          "image": {
+            "alt": "cropped-cabecera.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/b624e300-ccee-4261-9998-60c7d34d59ac_cropped-cabecera.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-05-01",
+            "finishDate": "2014-03-01",
+            "competences": [
+              {
+                "name": "WordPress",
                 "type": "technology"
               }
             ]
