@@ -9,7 +9,7 @@
       "name": "Antonio",
       "surnames": "Muñiz Casado",
       "title": "SRE / Devops",
-      "description": "He sido operador de sistemas desde 2003. Se unas pocas cosas sobre muchas tecnologías pero no soy un experto en ninguna (generalista techie). Hoy en día me interesan las metodologías y técnicas devops, microservicios, Python y el desarrollo web. Trabajo cada día para añadir estas habilidades a mi perfil técnico.\n\n",
+      "description": "Hola, soy Antonio.\n\nPadre de dos niñas y compañero de vida de su madre. \n\nPuede que esta información no parezca de interés \"profesional\" y sin embargo es fundamental para mi \"YO\" profesional. Cualquier decisión que pueda afectar a estas tres personas es prioritaria a mi carrera profesional y además, cualquier avance en mi carrera tiene que suponer una mejora en su calidad de vida.\n\nActualmente trabajo como SysAdmin/SRE en una gran empresa de servicios. Formo parte de un equipo top, donde yo he sido el último en llegar, lo cual me hace estar en constante aprendizaje gracias a la generosidad de mis compañeros. Aprender es por si mismo una motivación para mi, aunque no es un camino fácil, ya lo sabemos. \n\nEn los últimos años he trabajado dando soporte a equipos de desarrollo en cuanto a disponibilidad de sus entornos, asesoramiento y guía para provisión de infraestructura para nuevos proyectos de desarrollo y automatizando tareas internas del equipo con bash scripting o python. Esto me ha hecho desarrollar actitudes de escucha en primer lugar y de ofrecer propuestas para solucionar las distintas necesidades que se han planteado en los distintos proyectos.",
       "avatar": {
         "alt": "foro-perfil-byn.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/335a2376-72ec-43f1-8427-e552cddebb15_foro-perfil-byn.jpg"
@@ -311,8 +311,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
+        "name": "English",
         "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
