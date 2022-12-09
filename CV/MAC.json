@@ -46,45 +46,6 @@
           "name": "Kyndryl",
           "image": {
             "alt": "logo-kyndryl.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/09/c38516f3-55b8-46cc-81db-5c36ce6d2080_logo-kyndryl.jpeg"
-          },
-          "URL": "https://www.kyndryl.com/es/es"
-        },
-        "roles": [
-          {
-            "name": "DevSecOps",
-            "startDate": "2022-12-01",
-            "challenges": [
-              {
-                "description": "- Soporte para los equipos de desarrollo en las siguientes áreas:\n- Resolución de incidencias en plataforma de microservicios Openshift.\n- Alta de nueva infraestructura.\n- Gestión de proyectos.\n- Creación Documentación de onboarding para nuevos compañeros."
-              }
-            ],
-            "competences": [
-              {
-                "name": "ELK",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
-                "type": "technology"
-              },
-              {
-                "name": "Kibana",
-                "type": "technology"
-              },
-              {
-                "name": "OpenShift",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Kyndryl",
-          "image": {
-            "alt": "logo-kyndryl.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/fdd8e0c5-da27-4090-ae66-d595e214f3fe_logo-kyndryl.jpeg"
           },
           "URL": "https://www.kyndryl.com/es/es"
