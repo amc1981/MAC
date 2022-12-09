@@ -55,7 +55,7 @@
             "startDate": "2022-12-01",
             "challenges": [
               {
-                "description": "1. - Soporte para los equipos de desarrollo en las siguientes áreas:\n1.1. - Resolución de incidencias en plataforma de microservicios Openshift.\n1.2. - Alta de nueva infraestructura.\n2.- Gestión de proyectos."
+                "description": "1. Soporte para los equipos de desarrollo en las siguientes áreas:\n1.1. Resolución de incidencias en plataforma de microservicios Openshift.\n1.2. Alta de nueva infraestructura.\n2. Gestión de proyectos."
               }
             ],
             "competences": [
