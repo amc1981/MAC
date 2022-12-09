@@ -47,7 +47,8 @@
           "image": {
             "alt": "logo-kyndryl.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/09/c38516f3-55b8-46cc-81db-5c36ce6d2080_logo-kyndryl.jpeg"
-          }
+          },
+          "URL": "https://www.kyndryl.com/es/es"
         },
         "roles": [
           {
@@ -55,7 +56,7 @@
             "startDate": "2022-12-01",
             "challenges": [
               {
-                "description": "1. Soporte para los equipos de desarrollo en las siguientes áreas:\n1.1. Resolución de incidencias en plataforma de microservicios Openshift.\n1.2. Alta de nueva infraestructura.\n2. Gestión de proyectos."
+                "description": "* 1. Soporte para los equipos de desarrollo en las siguientes áreas:\n- Resolución de incidencias en plataforma de microservicios Openshift.\n- Alta de nueva infraestructura.\n* Gestión de proyectos."
               }
             ],
             "competences": [
