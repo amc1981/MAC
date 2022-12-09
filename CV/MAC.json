@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -42,6 +41,44 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Kyndryl",
+          "image": {
+            "alt": "logo-kyndryl.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/09/c38516f3-55b8-46cc-81db-5c36ce6d2080_logo-kyndryl.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevSecOps",
+            "startDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "1. - Soporte para los equipos de desarrollo en las siguientes áreas:\n1.1. - Resolución de incidencias en plataforma de microservicios Openshift.\n1.2. - Alta de nueva infraestructura.\n2.- Gestión de proyectos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Kyndryl",
@@ -301,12 +338,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -480,7 +515,6 @@
         "SysAdmin",
         "Technical Writer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
