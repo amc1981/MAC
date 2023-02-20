@@ -436,6 +436,17 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "English nivel C1",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Academia English Connection",
+          "description": "Preparación para certificación en Inglés nivel C1",
+          "URL": "https://englishconnection.es/"
+        }
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Enterprise Design Thinking Practitioner",
