@@ -318,13 +318,7 @@
       },
       {
         "skill": {
-          "name": "Windows",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -336,25 +330,31 @@
       },
       {
         "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "ELK",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Elasticsearch",
+          "name": "Jira",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kibana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
+          "name": "Windows",
           "type": "technology"
         }
       },
@@ -366,7 +366,25 @@
       },
       {
         "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
           "type": "technology"
         }
       }
