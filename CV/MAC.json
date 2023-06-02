@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,10 +11,11 @@
       "title": "Sysadmin / Devops",
       "description": "Hola, soy Antonio.\n\nPadre de dos niñas y compañero de vida de su madre.\n\nPuede que esta información no parezca de interés \"profesional\" y sin embargo es fundamental para mi \"YO\" profesional. Cualquier decisión que pueda afectar a estas tres personas es prioritaria a mi carrera profesional y además, cualquier avance en mi carrera tiene que suponer una mejora en su calidad de vida.\n\nEn los últimos años he trabajado dando soporte a equipos de desarrollo en cuanto a disponibilidad de sus entornos, asesoramiento y guía para provisión de infraestructura para nuevos proyectos y automatizando tareas internas del equipo con *Bash* scripting o *Python*. Esto me ha hecho desarrollar actitudes de escucha en primer lugar y de ofrecer propuestas para solucionar las distintas necesidades que se han planteado en los distintos proyectos",
       "avatar": {
-        "alt": "foro-perfil-byn.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/335a2376-72ec-43f1-8427-e552cddebb15_foro-perfil-byn.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/13/335a2376-72ec-43f1-8427-e552cddebb15_foro-perfil-byn.jpg",
+        "alt": "foro-perfil-byn.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
@@ -23,19 +24,8 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://antoniomuniz.com/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/amc1981"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/Antonio_Muniz_C"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/antonio-mu%C3%B1iz-casado/"
+        "URL": "https://antoniomuniz.com/",
+        "description": "Web personal"
       }
     ]
   },
@@ -45,8 +35,8 @@
         "organization": {
           "name": "Kyndryl",
           "image": {
-            "alt": "logo-kyndryl.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/0ae10f85-eac1-4014-8e58-48888b928b04_logo-kyndryl.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/0ae10f85-eac1-4014-8e58-48888b928b04_logo-kyndryl.jpeg",
+            "alt": "logo-kyndryl.jpeg"
           },
           "URL": "https://www.kyndryl.com/es/es"
         },
@@ -92,8 +82,8 @@
         "organization": {
           "name": "Kyndryl",
           "image": {
-            "alt": "logo-kyndryl.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/fdd8e0c5-da27-4090-ae66-d595e214f3fe_logo-kyndryl.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/fdd8e0c5-da27-4090-ae66-d595e214f3fe_logo-kyndryl.jpeg",
+            "alt": "logo-kyndryl.jpeg"
           },
           "URL": "https://www.kyndryl.com/es/es"
         },
@@ -148,8 +138,8 @@
         "organization": {
           "name": "Kyndryl",
           "image": {
-            "alt": "logo-kyndryl.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/b7984327-0704-4aad-870e-a9911bb607a8_logo-kyndryl.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/b7984327-0704-4aad-870e-a9911bb607a8_logo-kyndryl.jpeg",
+            "alt": "logo-kyndryl.jpeg"
           },
           "URL": "https://www.kyndryl.com/es/es"
         },
@@ -188,8 +178,8 @@
         "organization": {
           "name": "IBM",
           "image": {
-            "alt": "NUEVO-LOGO-IBM.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/f7250bfd-0c4c-4b99-abdd-3390b9a884d3_nuevo-logo-ibm.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/f7250bfd-0c4c-4b99-abdd-3390b9a884d3_nuevo-logo-ibm.jpg",
+            "alt": "NUEVO-LOGO-IBM.jpg"
           },
           "URL": "https://www.ibm.com/es-es"
         },
@@ -240,8 +230,8 @@
         "organization": {
           "name": "IBM",
           "image": {
-            "alt": "NUEVO-LOGO-IBM.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/cb8b0e83-79bb-4deb-986d-b7d15ae15c1a_nuevo-logo-ibm.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/cb8b0e83-79bb-4deb-986d-b7d15ae15c1a_nuevo-logo-ibm.jpg",
+            "alt": "NUEVO-LOGO-IBM.jpg"
           },
           "URL": "https://www.ibm.com"
         },
@@ -280,8 +270,8 @@
         "organization": {
           "name": "El Corte Inglés",
           "image": {
-            "alt": "logo-eci.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/0a4d4717-658a-489d-ba70-7027574c88f6_logo-eci.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/0a4d4717-658a-489d-ba70-7027574c88f6_logo-eci.png",
+            "alt": "logo-eci.png"
           },
           "URL": "https://www.elcorteingles.es"
         },
@@ -324,8 +314,8 @@
           "description": "Entre varios compañeros de trabajo decidimos lanzar un side project en forma de blog. Allí estuvimos escribiendo artículos de diversa temática, cosas más técnicas como instalar \nUbuntu server, hasta como descargar un epub en tu tablet. ",
           "URL": "https://dslab.es/author/krus/",
           "image": {
-            "alt": "cropped-cabecera.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/b624e300-ccee-4261-9998-60c7d34d59ac_cropped-cabecera.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/b624e300-ccee-4261-9998-60c7d34d59ac_cropped-cabecera.png",
+            "alt": "cropped-cabecera.png"
           }
         },
         "type": "sideProject",
@@ -333,13 +323,13 @@
           {
             "name": "Developer",
             "startDate": "2013-05-01",
-            "finishDate": "2014-03-01",
             "competences": [
               {
                 "name": "WordPress",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2014-03-01"
           }
         ]
       }
@@ -348,64 +338,30 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Inglés",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Linux",
+          "name": "Bash",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
+          "name": "Bitbucket",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "ELK",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Windows",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
           "type": "technology"
         }
       },
@@ -423,18 +379,64 @@
       },
       {
         "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kibana",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Bitbucket",
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
           "type": "technology"
         }
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Aprende Git",
+        "startDate": "2019-06-01",
+        "institution": {
+          "name": "LinkedIn"
+        },
+        "finishDate": "2019-06-01"
+      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
@@ -451,51 +453,41 @@
         "degreeAchieved": true,
         "name": "Enterprise Design Thinking Practitioner",
         "startDate": "2020-11-01",
-        "finishDate": "2020-11-01",
         "institution": {
           "name": "IBM"
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Learning Linux Shell Scripting",
-        "startDate": "2019-06-01",
-        "finishDate": "2019-06-01",
-        "institution": {
-          "name": "LinkedIn"
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Aprende Git",
-        "startDate": "2019-06-01",
-        "finishDate": "2019-06-01",
-        "institution": {
-          "name": "LinkedIn"
-        }
+        },
+        "finishDate": "2020-11-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Gestión de proyectos simplificada",
         "startDate": "2019-05-01",
-        "finishDate": "2019-05-01",
         "institution": {
           "name": "LinkedIn"
-        }
+        },
+        "finishDate": "2019-05-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Learning Linux Shell Scripting",
+        "startDate": "2019-06-01",
+        "institution": {
+          "name": "LinkedIn"
+        },
+        "finishDate": "2019-06-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Sistemas Informáticos y Telecomunicaciones.",
         "startDate": "2000-09-01",
-        "finishDate": "2002-06-01",
         "institution": {
           "name": "Salesianos de Atocha",
           "description": "Ciclo Formativo de Grado Superior (FP II) "
         },
+        "finishDate": "2002-06-01",
         "linkedCompetences": [
           {
             "name": "Cisco",
@@ -519,14 +511,51 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Comunicación escrita",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/antonio-mu%C3%B1iz-casado/"
+          "URL": "https://www.linkedin.com/in/antonio-mu%C3%B1iz-casado/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/amc1981",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/Antonio_Muniz_C",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "amc1981@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "675653146",
+          "countryCode": "+34"
         }
       ]
     },
@@ -554,6 +583,16 @@
         "SysAdmin",
         "Technical Writer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "En este momento de mi vida, para gozar de la mayor conciliación familiar posible, estoy buscando beneficios por encima de salario. Que el puesto sea remoto 100% y el horario flexible es mi prioridad. \n\nEl tipo de empresa que me atrae sería pequeña en plantilla, pero con ambición. Alguna startup de producto o empresa \"boutique\" de venta servicios  que tengan una hoja de ruta a 10 años  vista donde aspiren a grandes metas. Esto me permitirá crecer profesionalmente a la par que la compañía.\n\nActualmente desempeño labores de Sysadmin/SRE con énfasis en la automatización, pero la idea es evolucionar, no parar de aprender. Desconozco hacia que ámbito, pero en empresas donde está todo por hacer ese camino se va descubriendo sobre la marcha. Me atrae esa idea y estoy abierto a todo, desde gestión de personas a ventas, no descarto nada.",
+    "goodPractices": "La principal buena práctica que aplico siempre es la de documentar todo aquello que yo haya hecho y vaya a ser usado por algún compañero.\n\nHe trabajado con KANBAN, pero no se si la implementación en nuestro equipo era la más adecuada.\n\nEl resto de buenas prácticas las tengo en asignaturas pendientes, compré y no terminé \"Clean Code\", estoy detrás de comprar \"The pragmatic programer\" y a medida que avanzo en mis skills de programación con Python veo más necesario aprender e implementar TDD.",
+    "projects": [
+      {
+        "name": "Redactor para blog DSLab"
+      }
+    ]
   }
 }
