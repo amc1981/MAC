@@ -397,6 +397,12 @@
       },
       {
         "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -439,14 +445,15 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "English nivel C1",
         "startDate": "2023-01-01",
         "institution": {
           "name": "Academia English Connection",
           "description": "Preparación para certificación en Inglés nivel C1",
           "URL": "https://englishconnection.es/"
-        }
+        },
+        "finishDate": "2023-03-01"
       },
       {
         "studyType": "certification",
