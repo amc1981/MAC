@@ -469,7 +469,7 @@
         "finishDate": "2019-05-01"
       },
       {
-        "studyType": "selfTraining",
+        "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Kubernetes for the Absolute Beginners",
         "startDate": "2023-06-01",
