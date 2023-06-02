@@ -589,11 +589,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "ELK",
+        "type": "technology"
+      },
+      {
         "name": "Kibana",
         "type": "technology"
       },
       {
         "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "OpenShift",
         "type": "technology"
       },
       {
