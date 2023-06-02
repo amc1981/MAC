@@ -469,6 +469,28 @@
         "finishDate": "2019-05-01"
       },
       {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Kubernetes for the Absolute Beginners",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Learn Kubernetes in a simple, easy, and fun way with hands-on coding exercises. For beginners in DevOps.",
+          "URL": "https://www.udemy.com/share/101to43@-kpDMPOy4VwIus7jhSKuROqL_38Mu3Wwn05Zr10DuCIyJ_RQZ5zoPDnyKYxBhSs_nw==/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/02/e07437f3-be4e-43b5-95d8-7e709918a2c8_certificado-k8s-for-.jpg",
+            "alt": "Certificado-K8s-for-beginners.jpg"
+          }
+        },
+        "finishDate": "2023-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Learning Linux Shell Scripting",
@@ -589,11 +611,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "ELK",
+        "name": "Bash",
         "type": "technology"
       },
       {
-        "name": "Kibana",
+        "name": "ELK",
         "type": "technology"
       },
       {
