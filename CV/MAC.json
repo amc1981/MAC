@@ -24,7 +24,7 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://antoniomuniz.com/",
+        "URL": "http://antoniomuniz.com/",
         "description": "Web personal"
       }
     ]
@@ -338,12 +338,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
+        "name": "EN",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Inglés",
-        "level": "Professional working proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -571,11 +571,11 @@
         },
         {
           "URL": "https://github.com/amc1981",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/Antonio_Muniz_C",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
@@ -626,7 +626,7 @@
         "type": "technology"
       },
       {
-        "name": "Linux",
+        "name": "Kubernetes",
         "type": "technology"
       },
       {
