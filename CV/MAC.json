@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -344,16 +344,53 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Habilitar entorno para Negocio",
+          "description": "Por necesidades de negocio en el cliente era necesario disponer de un entorno \"no productivo\" pero que pudiera recibir los datos de producción para que los equipos de marketing pudieran validar las promociones y ofertas que se publicarían en los próximos días en las campañas que han diseñado. \n\nEl reto era rematar un proyecto que llevaba meses estancado por diferentes motivos. Fue mi primer encargo al llegar al departamento de Platform Assurance. Había que conseguir automatizar los procesos de carga de datos de producción en este entorno \"no productivo\". \n\nEl desafío era que mientras la infra de producción estaba on premise, la de este entorno para negocio estaba en cloud. Por tanto teníamos que hacer uso de procesos ad hoc primero para realizar la carga y luego para tunear los procesos de cargas de catálogo e indexaciones en el entorno de negocio. Al disponer de mucha menos potencia de cálculo y problemas de latencia entre el CPD del cliente y la nube de Azure, además de los desarrollos en bash ad hoc, teníamos que orquestar actuaciones con distintos grupos de sistemas y comunicaciones para realizar las adecuaciones pertinentes. \n\nTras 6 meses de mucho aprendizaje conseguimos entregar el entorno y operarlo desde el departamento para realizar las cargas de datos necesarias para cada campaña. A día de hoy el entorno sigue operativo y ha sido evolucionado por otros compañeros que me sucedieron en el departamento, gracias a la documentación que dejamos en su día."
+        },
+        "type": "achievement",
+        "publishingDate": "2019-09-01",
+        "tags": [
+          "Devops"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "Weblogic",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
