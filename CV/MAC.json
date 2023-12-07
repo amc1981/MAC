@@ -6,25 +6,24 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Antonio",
+      "name": "📝Antonio",
       "surnames": "Muñiz Casado",
-      "title": "Devops / SRE / Sysadmin ",
-      "description": "Hola, soy Antonio.\n\nPadre de dos niñas y compañero de vida de su madre.\n\nPuede que esta información sea muy personal y sin embargo es fundamental para mi *YO profesional*. \n\nCualquier decisión que pueda afectar a estas tres personas es prioritaria a mi carrera profesional y además, cualquier avance en mi carrera tiene que suponer una mejora en su calidad de vida.\n\nEn los últimos años he trabajado dando soporte a equipos de desarrollo en cuanto a disponibilidad de sus entornos, asesoramiento y guía para provisión de infraestructura para nuevos proyectos y automatizando tareas internas del equipo con *Bash* scripting o *Python*. Esto me ha hecho desarrollar actitudes de escucha en primer lugar y de ofrecer propuestas para solucionar las distintas necesidades que se han planteado en los distintos proyectos.",
+      "title": "IT professional",
+      "description": "Actualmente dando soporte a los equipos de desarrollo web de El Corte Inglés, dentro del equipo de Platform Assurance. Automatizar todo lo que se pueda.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/03292c20-7dee-4189-9b46-69c35e833eea_foto-perfil-rrss.jpg",
-        "alt": "foto-perfil-RRSS.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/8deb9c5c-2890-49c6-8350-ef11008f2e10_linkedin-photo-137.linkedin-photo-137",
+        "alt": "23/12/07/8deb9c5c-2890-49c6-8350-ef11008f2e10_linkedin-photo-137.linkedin-photo-137"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
         "country": "España",
-        "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "region": "Community of Madrid"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/antonio-mu%C3%B1iz-casado/"
+        "URL": "https://linkedin.com/in/antonio-mu%C3%B1iz-casado"
       },
       {
         "type": "github",
@@ -41,283 +40,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Kyndryl",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/20/0ae10f85-eac1-4014-8e58-48888b928b04_logo-kyndryl.jpeg",
-            "alt": "logo-kyndryl.jpeg"
-          },
-          "URL": "https://www.kyndryl.com/es/es"
-        },
-        "roles": [
-          {
-            "name": "DevSecOps",
-            "startDate": "2022-12-01",
-            "challenges": [
-              {
-                "description": "- Trabajar como intermediario entre los equipos de desarrollo y sistemas para la implantación del nuevo sistema de CI/CD del cliente.\n\n- Colaborar en la mejora del sistema de CI/CD, operando los procesos de construcción y despliegue y guiando a los equipos de desarrollo en las nuevos herramientas de integración continua.\n\n- Actuar en como técnico de sistemas en la gestión de usuarios, provisión de infraestructura y  gestión de comunicaciones entre servidores."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Kyndryl",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/fdd8e0c5-da27-4090-ae66-d595e214f3fe_logo-kyndryl.jpeg",
-            "alt": "logo-kyndryl.jpeg"
-          },
-          "URL": "https://www.kyndryl.com/es/es"
-        },
-        "roles": [
-          {
-            "name": "SRE/Devops",
-            "startDate": "2022-03-01",
-            "finishDate": "2022-12-01",
-            "challenges": [
-              {
-                "description": "* Administración de clusters Openshift.\n* Troubleshooting de incidencias en infraestructura Openshift.\n* Administración y gestión de usuarios en stack de monitoring ELK.\n* Provisión de infraestructura tanto OnPremise (VMWare) como en Cloud (Azure) vía automatismos desarrollados con Jenkins + Ansible + Terraform.\n\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "ELK",
-                "type": "technology"
-              },
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Kibana",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "OpenShift",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Kyndryl",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/b7984327-0704-4aad-870e-a9911bb607a8_logo-kyndryl.jpeg",
-            "alt": "logo-kyndryl.jpeg"
-          },
-          "URL": "https://www.kyndryl.com/es/es"
-        },
-        "roles": [
-          {
-            "name": "Platform Assurance Engineer & Project Manager",
-            "startDate": "2021-09-01",
-            "finishDate": "2022-03-01",
-            "challenges": [
-              {
-                "description": "Toma de requisitos y atención peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo:\n\n* Cursar las peticiones correspondientes de: \n\n  - Alta de nueva infraestructura, On Premise o Cloud(Azure) \n  - Apertura de puertos y montaje de balanceos en F5 \n  - Creación de VPN's site to site entre empresas \n  - Alta de usuario en grupos de LDAP pre-existentes \n\n* Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos. \n\n* Chequeo y monitorización de infraestructuras en entornos no productivos. \n\n* Despliegue de aplicaciones en entornos no productivos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Weblogic",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IBM",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/f7250bfd-0c4c-4b99-abdd-3390b9a884d3_nuevo-logo-ibm.jpg",
-            "alt": "NUEVO-LOGO-IBM.jpg"
-          },
-          "URL": "https://www.ibm.com/es-es"
-        },
-        "roles": [
-          {
-            "name": "Platform Assurance Engineer & Project Manager",
-            "startDate": "2019-04-01",
-            "finishDate": "2021-09-01",
-            "challenges": [
-              {
-                "description": "Desde Abril de 2019 mi rol principal es el de tomar requisitos y atender peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo:\n\n* Cursar las peticiones correspondientes de:\n - Alta de nueva infraestructura, On Premise o Cloud (Azure)\n - Apertura de puertos y montaje de balanceos en F5\n - Apertura de peticiones para creación de VPN's site to site entre empresas a los grupos de Seguridad.\n - Alta de usuario en grupos de LDAP pre-existentes\n\n * Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos.\n\n* Chequeo y monitorización de infraestructuras en entornos no productivos.\n\n* Despliegue de aplicaciones en entornos no productivos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "AIX",
-                "type": "technology"
-              },
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Unix",
-                "type": "technology"
-              },
-              {
-                "name": "Weblogic",
-                "type": "technology"
-              },
-              {
-                "name": "Websphere",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IBM",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/cb8b0e83-79bb-4deb-986d-b7d15ae15c1a_nuevo-logo-ibm.jpg",
-            "alt": "NUEVO-LOGO-IBM.jpg"
-          },
-          "URL": "https://www.ibm.com"
-        },
-        "roles": [
-          {
-            "name": "Operador de Sistemas",
-            "startDate": "2016-11-01",
-            "finishDate": "2019-04-01",
-            "challenges": [
-              {
-                "description": "En sala de operaciones e-business, orientado a montorización y control de sistemas web y servidores distribuidos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Microstrategy",
-                "type": "technology"
-              },
-              {
-                "name": "Unix",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "El Corte Inglés",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/0a4d4717-658a-489d-ba70-7027574c88f6_logo-eci.png",
-            "alt": "logo-eci.png"
-          },
-          "URL": "https://www.elcorteingles.es"
-        },
-        "roles": [
-          {
-            "name": "Operador de sistemas",
-            "startDate": "2003-01-01",
-            "finishDate": "2016-11-01",
-            "challenges": [
-              {
-                "description": "Monitorización y operación de procesos online y batch y alertas relacionadas con Sistemas Operativos(AIX, Windows) o Gestores de Base de datos (Oracle) en servidores distribuidos en Centros Comerciales del Grupo de empresas ECI.\n\nSoporte de primer nivel para varias empresas del grupo (Supercor, Sfera, Supercor Express, Opencor, Telecor, etc). además de soporte de telefónico para el Partner empresarial Sephora."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Unix",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
@@ -614,7 +336,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/antonio-mu%C3%B1iz-casado/",
+          "URL": "https://linkedin.com/in/antonio-mu%C3%B1iz-casado",
           "type": "linkedin"
         },
         {
