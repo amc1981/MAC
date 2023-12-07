@@ -11,8 +11,8 @@
       "title": "IT professional",
       "description": "Actualmente dando soporte a los equipos de desarrollo web de El Corte Inglés, dentro del equipo de Platform Assurance. Automatizar todo lo que se pueda.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/cae57971-7cdb-4f21-b5e5-d5120cf21bd5_linkedin-photo-137.linkedin-photo-137",
-        "alt": "23/12/07/cae57971-7cdb-4f21-b5e5-d5120cf21bd5_linkedin-photo-137.linkedin-photo-137"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/2d48b524-0389-4281-838d-2301c11400ee_linkedin-photo-137.linkedin-photo-137",
+        "alt": "23/12/07/2d48b524-0389-4281-838d-2301c11400ee_linkedin-photo-137.linkedin-photo-137"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -40,6 +40,75 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Kyndryl"
+        },
+        "roles": [
+          {
+            "name": "SRE/Devops",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "* Administración de clusters Openshift.\n* Troubleshooting de incidencias en infraestructura Openshift.\n* Administración y gestión de usuarios en stack de monitoring ELK."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kyndryl"
+        },
+        "roles": [
+          {
+            "name": "Platform Assurance Engineer & Project Manager",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-03-31",
+            "challenges": [
+              {
+                "description": "Toma de requisitos y atención peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo:\n\n* Cursar las peticiones correspondientes de:\n\n- Alta de nueva infraestructura, On Premise o Cloud(Azure)\n- Apertura de puertos y montaje de balanceos en F5\n- Creación de VPN's site to site entre empresas\n- Alta de usuario en grupos de LDAP pre-existentes\n\n* Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos.\n\n* Chequeo y monitorización de infraestructuras en entornos no productivos.\n\n* Despliegue de aplicaciones en entornos no productivos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM"
+        },
+        "roles": [
+          {
+            "name": "Platform Assurance Engineer & Project Manager",
+            "startDate": "2019-04-01",
+            "finishDate": "2021-09-30",
+            "challenges": [
+              {
+                "description": "Desde Abril de 2019 mi rol principal es el de tomar requisitos y atender peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo:\n\n* Cursar las peticiones correspondientes de:\n- Alta de nueva infraestructura, On Premise o Cloud (Azure)\n- Apertura de puertos y montaje de balanceos en F5\n- Apertura de peticiones para creación de VPN's site to site entre empresas a los grupos de Seguridad.\n- Alta de usuario en grupos de LDAP pre-existentes\n\n* Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos.\n\n* Chequeo y monitorización de infraestructuras en entornos no productivos.\n\n* Despliegue de aplicaciones en entornos no productivos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "El Corte Inglés"
+        },
+        "roles": [
+          {
+            "name": "Operador de sistemas",
+            "startDate": "2003-01-01",
+            "finishDate": "2016-11-30",
+            "challenges": [
+              {
+                "description": "Monitorización y operación de procesos online y batch y alertas relacionadas con Sistemas Operativos(AIX, Windows) o Gestores de Base de datos (Oracle) en servidores distribuidos en Centros Comerciales del Grupo de empresas ECI.\n\nSoporte de primer nivel para varias empresas del grupo (Supercor, Sfera, Supercor Express, Opencor, Telecor, etc). además de soporte de telefónico para el Partner empresarial Sephora."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
