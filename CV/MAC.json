@@ -11,8 +11,8 @@
       "title": "IT professional",
       "description": "Actualmente dando soporte a los equipos de desarrollo web de El Corte Inglés, dentro del equipo de Platform Assurance. Automatizar todo lo que se pueda.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/2d48b524-0389-4281-838d-2301c11400ee_linkedin-photo-137.linkedin-photo-137",
-        "alt": "23/12/07/2d48b524-0389-4281-838d-2301c11400ee_linkedin-photo-137.linkedin-photo-137"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/5b87d0e5-8f0f-4c3c-8864-44efbaf43000_linkedin-photo-137.linkedin-photo-137",
+        "alt": "23/12/07/5b87d0e5-8f0f-4c3c-8864-44efbaf43000_linkedin-photo-137.linkedin-photo-137"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -275,6 +275,24 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "ACP-620 Managing Jira Projects for Cloud",
+        "startDate": "2024-04-01",
+        "institution": {
+          "name": "Atlassian",
+          "description": "The Managing Jira Cloud Projects Certification builds on the professional's existing agile skills, with a focus on optimizing the power of Jira Software for their development teams. This credential is for scrum masters, project administrators, project leads and board administrators who can configure and automate Jira Software Scrum and Kanban projects for classic and next-gen.",
+          "URL": "https://cp.certmetrics.com/atlassian/en/public/badge/c?id=70121:5f29798b-9a94-41e0-9ab9-c79cd064d24c&ccat=30&date=2024-4-18"
+        },
+        "finishDate": "2026-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Jira",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Aprende Git",
         "startDate": "2019-06-01",
         "institution": {
@@ -419,12 +437,6 @@
       ],
       "contactMails": [
         "amc1981@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "675653146",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
