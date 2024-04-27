@@ -57,6 +57,10 @@
             ],
             "competences": [
               {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
                 "name": "Jenkins",
                 "type": "technology"
               },
@@ -66,6 +70,10 @@
               },
               {
                 "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
                 "type": "technology"
               }
             ]
