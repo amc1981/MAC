@@ -49,9 +49,28 @@
           {
             "name": "SRE/Devops",
             "startDate": "2022-03-01",
+            "finishDate": "2022-12-01",
             "challenges": [
               {
                 "description": "* Administración de clusters Openshift.\n* Troubleshooting de incidencias en infraestructura Openshift.\n* Administración y gestión de usuarios en stack de monitoring ELK."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
               }
             ]
           }
