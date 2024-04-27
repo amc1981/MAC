@@ -47,6 +47,36 @@
         },
         "roles": [
           {
+            "name": "SRE / Platform Engineer",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Colaborar en el día a día de los equipos de desarrollo del cliente como SRE, dando soporte de sistemas en entornos previos, ayudando a mejorar la monitorización y observabilidad de las aplicaciones y ayudando con el montaje de pruebas de rendimiento de las mismas.\n\nMontaje de entornos de desarrollo para aplicaciones Frontend en plataforma de contenedores Openshift, solicitando alta de apps y sus correspondientes flujos de CI/CD, además de validar dichos entornos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kyndryl"
+        },
+        "roles": [
+          {
             "name": "DevSecOps Support",
             "startDate": "2022-12-01",
             "finishDate": "2024-03-01",
