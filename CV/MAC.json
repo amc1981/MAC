@@ -193,6 +193,24 @@
               {
                 "description": "Since April 2019, my main role is to take requirements and attend to requests from web development teams (via Jira), to transfer those needs to the information systems teams (via ticketing in Smart IT/BMC), who must provide the solutions that developers request, such as:\n\n* Process the corresponding requests for:\n- New infrastructure registration, On Premise or Cloud (Azure)\n- Opening ports and setting up load balances in F5\n- Opening requests for the creation of site-to-site VPNs between companies to the Security groups.\n- User registration in pre-existing LDAP groups\n\n* Design and implement Bash scripts to cover ad hoc project needs.\n\n* Checking and monitoring infrastructures in non-productive environments.\n\n* Deployment of applications in non-productive environments."
               }
+            ],
+            "competences": [
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
+                "type": "technology"
+              }
             ]
           }
         ]
