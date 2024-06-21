@@ -228,6 +228,24 @@
               {
                 "description": "Monitoring and operation of online and batch processes and alerts related to Operating Systems (AIX, Windows) or Database Managers (Oracle) on servers distributed in Shopping Centers of the ECI Group of companies.\n\nFirst-level support for several group companies (Supercor, Sfera, Supercor Express, Opencor, Telecor, etc.) and telephone support for the Sephora Business Partner."
               }
+            ],
+            "competences": [
+              {
+                "name": "BMC Remedy",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
+                "type": "technology"
+              }
             ]
           }
         ]
