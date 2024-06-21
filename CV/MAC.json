@@ -200,8 +200,8 @@
     "projects": [
       {
         "details": {
-          "name": "Redactor para blog DSLab",
-          "description": "Entre varios compañeros de trabajo decidimos lanzar un side project en forma de blog. Allí estuvimos escribiendo artículos de diversa temática, cosas más técnicas como instalar \nUbuntu server, hasta como descargar un epub en tu tablet. ",
+          "name": "Editor for DSLab blog",
+          "description": "Among several coworkers, we decided to launch a side project in the form of a blog. There we wrote articles on various topics, from technical things like installing a Ubuntu server to how to download an epub on your tablet.",
           "URL": "https://dslab.es/author/krus/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/b624e300-ccee-4261-9998-60c7d34d59ac_cropped-cabecera.png",
@@ -581,7 +581,7 @@
     "goodPractices": "I always try to document everything I have done and that is going to be used by a colleague.\n\nI have worked with *KANBAN* and *SCRUM* at different stages of my professional career.\n\nI usually train myself via Udemy courses in new technologies and read books about *Clean code* or *TDD*, even if they are not in my field of action, to have a more general vision and understanding of the rest of the technology verticals such as development.\n\nI also listen to podcasts on topics related to management, strategy, personal development, and science.\n\n",
     "projects": [
       {
-        "name": "Redactor para blog DSLab"
+        "name": "Editor for DSLab blog"
       }
     ]
   }
