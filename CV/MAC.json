@@ -51,7 +51,7 @@
             "startDate": "2024-04-01",
             "challenges": [
               {
-                "description": "Colaborar en el día a día de los equipos de desarrollo del cliente como SRE, dando soporte de sistemas en entornos previos, ayudando a mejorar la monitorización y observabilidad de las aplicaciones y ayudando con el montaje de pruebas de rendimiento de las mismas.\n\nMontaje de entornos de desarrollo para aplicaciones Frontend en plataforma de contenedores Openshift, solicitando alta de apps y sus correspondientes flujos de CI/CD, además de validar dichos entornos."
+                "description": "Collaborate on a day-to-day basis with the client's development teams as an SRE, providing system support in previous environments, helping to improve application monitoring and observability, and assisting with the assembly of performance tests for them.\n\nAssembly of development environments for Frontend applications on the Openshift container platform, requesting the registration of apps and their corresponding CI/CD flows, and validating said environments."
               }
             ],
             "competences": [
