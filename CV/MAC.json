@@ -578,7 +578,7 @@
       }
     ],
     "desiredJobDescription": "I currently work as a DevOps/SRE with an emphasis on automation, but the idea is to evolve, not to stop learning.\n\nAny position that involves working on automating tasks, either through scripts in *Bash* or *Python* or with tools like Ansible -which, although I am less familiar with it, I think has become an industry standard for orchestrating different types of automation- attracts my attention a lot and I want to direct my career towards these technologies.",
-    "goodPractices": "Siempre trato de documentar todo aquello que yo haya hecho y vaya a ser usado por algún compañero.\n\nHe trabajado con *KANBAN* y *SCRUM* en diferentes etapas de mi carrera profesional.\n\nSuelo formarme vía cursos de Udemy en nuevas tecnologías y leo libros sobre *Clean code* o *TDD*, aunque no sean de mi ámbito de acción, para tener una visión y comprensión más generalista del resto de verticales de tecnología como el desarrollo. \n\nTambién escucho podcasts sobre temas relacionados con gestión, estrategia, desarrollo personal y ciencia.\n\n",
+    "goodPractices": "I always try to document everything I have done and that is going to be used by a colleague.\n\nI have worked with *KANBAN* and *SCRUM* at different stages of my professional career.\n\nI usually train myself via Udemy courses in new technologies and read books about *Clean code* or *TDD*, even if they are not in my field of action, to have a more general vision and understanding of the rest of the technology verticals such as development.\n\nI also listen to podcasts on topics related to management, strategy, personal development, and science.\n\n",
     "projects": [
       {
         "name": "Redactor para blog DSLab"
