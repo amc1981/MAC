@@ -156,7 +156,25 @@
             "finishDate": "2022-03-31",
             "challenges": [
               {
-                "description": "Requirements gathering and response to requests from web development teams (via Jira), to transfer these needs to the information systems teams (via ticketing in Smart IT/BMC), who must provide the solutions that developers request, such as:\n\n* Processing the corresponding requests for:\n\n- New infrastructure registration, On Premise or Cloud (Azure)\n- Opening ports and setting up load balances in F5\n- Creating site-to-site VPNs between companies\n- User registration in pre-existing LDAP groups\n\n* Designing and implementing Bash scripts to cover ad hoc project needs.\n\n* Checking and monitoring infrastructures in non-production environments.\n\n* Deploying applications in non-production environments."
+                "description": "Requirements gathering and response to requests from web development teams (via Jira), to transfer these needs to the information systems teams (via ticketing in Smart IT/BMC), who must provide the solutions that developers request, such as:\n\n* Processing the corresponding requests for:\n\n- New infrastructure registration, On-Premise or Cloud (Azure)\n- Opening ports and setting up load balances in F5\n- Creating site-to-site VPNs between companies\n- User registration in pre-existing LDAP groups\n\n* Designing and implementing Bash scripts to cover ad hoc project needs.\n\n* Checking and monitoring infrastructures in non-production environments.\n\n* Deploying applications in non-production environments."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
+                "type": "technology"
               }
             ]
           }
