@@ -156,7 +156,7 @@
             "finishDate": "2022-03-31",
             "challenges": [
               {
-                "description": "Toma de requisitos y atención peticiones de los equipos de desarrollo web (vía Jira), para trasladar esas necesidades a los equipos de sistemas de información(vía ticketing en Smart IT/BMC), que deben proveer las soluciones que los desarrolladores reclamen, como por ejemplo:\n\n* Cursar las peticiones correspondientes de:\n\n- Alta de nueva infraestructura, On Premise o Cloud(Azure)\n- Apertura de puertos y montaje de balanceos en F5\n- Creación de VPN's site to site entre empresas\n- Alta de usuario en grupos de LDAP pre-existentes\n\n* Diseñar e implementar Bash scripts para cubrir necesidades ad hoc de los proyectos.\n\n* Chequeo y monitorización de infraestructuras en entornos no productivos.\n\n* Despliegue de aplicaciones en entornos no productivos."
+                "description": "Requirements gathering and response to requests from web development teams (via Jira), to transfer these needs to the information systems teams (via ticketing in Smart IT/BMC), who must provide the solutions that developers request, such as:\n\n* Processing the corresponding requests for:\n\n- New infrastructure registration, On Premise or Cloud (Azure)\n- Opening ports and setting up load balances in F5\n- Creating site-to-site VPNs between companies\n- User registration in pre-existing LDAP groups\n\n* Designing and implementing Bash scripts to cover ad hoc project needs.\n\n* Checking and monitoring infrastructures in non-production environments.\n\n* Deploying applications in non-production environments."
               }
             ]
           }
@@ -392,11 +392,11 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "English nivel C1",
+        "name": "English level C1",
         "startDate": "2023-01-01",
         "institution": {
           "name": "Academia English Connection",
-          "description": "Preparación para certificación en Inglés nivel C1",
+          "description": "Preparation for certification in English level C1",
           "URL": "https://englishconnection.es/"
         },
         "finishDate": "2023-03-01"
