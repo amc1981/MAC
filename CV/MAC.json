@@ -508,6 +508,18 @@
         "finishDate": "2019-06-01"
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Seminario Resolución de Problemas Complejos",
+        "startDate": "2024-04-01",
+        "institution": {
+          "name": "UNIR",
+          "description": "Módulo 1: ¿Qué es realmente el Complex Problem Solving?.\nMódulo 2: Escuelas de pensamiento desde de Bono a Rumelt.\nMódulo 3: Pensamiento crítico.\nMódulo 4: Técnicas de análisis y creatividad Problem Solving.\nMódulo 5: Metodologías Problem Solving.\nMódulo 6: Técnicas de comunicación para el cambio.",
+          "URL": "https://verifirma.unir.net/CSV/553d0b21-bfeb-47f1-84a5-666aa87b8ff1"
+        },
+        "finishDate": "2024-07-01"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Sistemas Informáticos y Telecomunicaciones.",
