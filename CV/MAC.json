@@ -123,7 +123,7 @@
             "finishDate": "2022-12-01",
             "challenges": [
               {
-                "description": "* Openshift cluster administration.\n* Troubleshooting of incidents in Openshift infrastructure.\n* Administration and management of users in the ELK monitoring stack.\n\nAs a side project within the team, I was asked to create a Python script to collect information on the different Openshift clusters that we managed and generate an Excel report with information regarding the number of nodes per cluster, pods and active projects."
+                "description": "* Administración de clusters Openshift.\n\n* Resolución de incidencias en la infraestructura Openshift.\n\n* Administración y gestión de usuarios en el stack de monitorización ELK.\n\nComo proyecto paralelo dentro del equipo, me pidieron crear un script en Python para recopilar información de los diferentes clusters Openshift que gestionábamos y generar un informe en Excel con información sobre la cantidad de nodos por cluster, pods y proyectos activos."
               }
             ],
             "competences": [
