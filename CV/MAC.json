@@ -526,6 +526,23 @@
         "finishDate": "2019-06-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "startDate": "2024-10-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "**Aptitudes evaluadas:**\nDescripción de los conceptos de la nube\nDescripción de la arquitectura y los servicios de Azure\nDescripción de la administración y la gobernanza de Azure",
+          "URL": "https://learn.microsoft.com/es-es/users/antoniomuizcasado-7173/credentials/6e680863fba750f7?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Seminario Resolución de Problemas Complejos",
