@@ -598,6 +598,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "Azure",
           "type": "technology"
         },
