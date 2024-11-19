@@ -50,9 +50,10 @@
           {
             "name": "SRE / Platform Engineer",
             "startDate": "2024-04-01",
+            "finishDate": "2024-09-01",
             "challenges": [
               {
-                "description": "Collaborate on a day-to-day basis with the client's development teams as an SRE, providing system support in previous environments, helping to improve application monitoring and observability, and assisting with the assembly of performance tests for them.\n\nAssembly of development environments for Frontend applications on the Openshift container platform, requesting the registration of apps and their corresponding CI/CD flows, and validating said environments."
+                "description": "Colaborar en el día a día de los equipos de desarrollo del cliente como SRE. Proveyendo de soporte a los sistemas de entornos previos, ayudando a mejorar la monitorización y la observabilidad de la aplicaciones y asistiendo en la configuración de las pruebas de rendimiento de las mismas.\n\n\nMontaje de entornos de desarrollo para aplicaciones Frontend sobre la plataforma de contenedores Openshift, solicitando el alta de apps y sus correspondientes flujos CI/CD, y validando dichos entornos."
               }
             ],
             "competences": [
