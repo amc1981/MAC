@@ -598,10 +598,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Ansible",
-          "type": "technology"
-        },
-        {
           "name": "Docker",
           "type": "technology"
         },
