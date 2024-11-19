@@ -610,6 +610,10 @@
           "type": "technology"
         },
         {
+          "name": "OpenShift",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
