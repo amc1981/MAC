@@ -158,7 +158,7 @@
             "finishDate": "2022-03-31",
             "challenges": [
               {
-                "description": "Requirements gathering and response to requests from web development teams (via Jira), to transfer these needs to the information systems teams (via ticketing in Smart IT/BMC), who must provide the solutions that developers request, such as:\n\n* Processing the corresponding requests for:\n\n- New infrastructure registration, On-Premise or Cloud (Azure)\n- Opening ports and setting up load balances in F5\n- Creating site-to-site VPNs between companies\n- User registration in pre-existing LDAP groups\n\n* Designing and implementing Bash scripts to cover ad hoc project needs.\n\n* Checking and monitoring infrastructures in non-production environments.\n\n* Deploying applications in non-production environments."
+                "description": "Toma de requerimientos y respuesta a peticiones de los equipos de desarrollo web (vía Jira), para trasladar dichas necesidades a los equipos de sistemas de información (vía ticketing en Smart IT/BMC), quienes deben aportar las soluciones que los desarrolladores solicitan, tales como:\n\n* Tramitación de las peticiones correspondientes para:\n\n- Alta de nueva infraestructura, On-Premise o Cloud (Azure)\n\n- Apertura de puertos y configuración de balanceadores de carga en F5\n\n- Creación de VPNs site-to-site entre empresas\n\n- Alta de usuarios en grupos LDAP preexistentes\n\n* Diseño e implementación de scripts Bash para cubrir necesidades ad hoc de proyectos.\n\n* Chequeo y monitorización de infraestructuras en entornos no productivos.\n\n* Despliegue de aplicaciones en entornos no productivos."
               }
             ],
             "competences": [
