@@ -28,15 +28,6 @@
       {
         "type": "github",
         "URL": "https://github.com/amc1981"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/Antonio_Muniz_C"
-      },
-      {
-        "type": "other",
-        "URL": "http://antoniomuniz.com/",
-        "description": "Blog personal"
       }
     ]
   },
@@ -606,10 +597,6 @@
         {
           "URL": "https://github.com/amc1981",
           "type": "github"
-        },
-        {
-          "URL": "https://twitter.com/Antonio_Muniz_C",
-          "type": "twitter"
         }
       ]
     },
