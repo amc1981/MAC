@@ -253,33 +253,6 @@
         ]
       }
     ],
-    "projects": [
-      {
-        "details": {
-          "name": "Editor for DSLab blog",
-          "description": "Among several coworkers, we decided to launch a side project in the form of a blog. There we wrote articles on various topics, from technical things like installing a Ubuntu server to how to download an epub on your tablet.",
-          "URL": "https://dslab.es/author/krus/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/b624e300-ccee-4261-9998-60c7d34d59ac_cropped-cabecera.png",
-            "alt": "cropped-cabecera.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2013-05-01",
-            "competences": [
-              {
-                "name": "WordPress",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2014-03-01"
-          }
-        ]
-      }
-    ],
     "publicArtifacts": [
       {
         "details": {
@@ -700,11 +673,6 @@
       }
     ],
     "desiredJobDescription": "En los períodos que he trabajado dentro de un equipo de gente con los mismos objetivos y criterios han sido las épocas más productivas de mi vida laboral. \n\nLa cercanía con los compañeros, el abordar los problemas de manera conjunta, aportando y valorando los aportes de mis colegas son mis principales motivaciones a la hora de buscar nuevos retos laborales. \n\n",
-    "goodPractices": "Como eje fundamental de mi manera de trabajar procuro documentar cada nuevo proyecto en el que participo para facilitar la comprensión del mismo al resto del equipo.\n\n\n\n",
-    "projects": [
-      {
-        "name": "Editor for DSLab blog"
-      }
-    ]
+    "goodPractices": "Como eje fundamental de mi manera de trabajar procuro documentar cada nuevo proyecto en el que participo para facilitar la comprensión del mismo al resto del equipo.\n\n\n\n"
   }
 }
