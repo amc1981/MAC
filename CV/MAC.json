@@ -24,10 +24,6 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/antonio-muniz-casado/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/amc1981"
       }
     ]
   },
@@ -593,10 +589,6 @@
         {
           "URL": "https://www.linkedin.com/in/antonio-muniz-casado/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://github.com/amc1981",
-          "type": "github"
         }
       ]
     },
