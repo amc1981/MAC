@@ -639,6 +639,10 @@
           "type": "technology"
         },
         {
+          "name": "Appian",
+          "type": "technology"
+        },
+        {
           "name": "Azure",
           "type": "technology"
         },
