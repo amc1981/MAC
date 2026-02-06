@@ -318,12 +318,6 @@
       },
       {
         "skill": {
-          "name": "ELK",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Elasticsearch",
           "type": "technology"
         }
@@ -354,12 +348,6 @@
       },
       {
         "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -373,12 +361,6 @@
       {
         "skill": {
           "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
           "type": "technology"
         }
       },
@@ -656,7 +638,7 @@
         "type": "technology"
       },
       {
-        "name": "ELK",
+        "name": "Git",
         "type": "technology"
       },
       {
@@ -664,11 +646,11 @@
         "type": "technology"
       },
       {
-        "name": "Kubernetes",
+        "name": "Linux",
         "type": "technology"
       },
       {
-        "name": "Python",
+        "name": "OpenShift",
         "type": "technology"
       }
     ],
