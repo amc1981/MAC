@@ -48,6 +48,32 @@
         },
         "roles": [
           {
+            "name": "Appian Sysadmin",
+            "startDate": "2024-11-01",
+            "challenges": [
+              {
+                "description": "- Gestión de despliegues entre entornos producivos\n- Soporte y ayuda a equipos de desarrollo: Concesión de permisos a la plataforma, soporte en resolución de incidencias, alta de datasources en la plataforma Appian\n- Mantenimiento y gestión de versiones en la plataforma Appian de cliente (On-premise)\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Appian",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kyndryl"
+        },
+        "roles": [
+          {
             "name": "SRE / Platform Engineer",
             "startDate": "2024-04-01",
             "finishDate": "2024-09-01",
