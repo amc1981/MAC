@@ -464,6 +464,31 @@
         "finishDate": "2019-05-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "IBM Cloud Pak for Data 5.0: Administration - Code: 6XLA30G",
+        "startDate": "2026-03-01",
+        "institution": {
+          "name": "IBM",
+          "description": "This badge earner can describe the cluster architecture, manage user roles and groups, and use platform APIs for user management. The earner can also manage and monitor cluster nodes, pods, and services, including monitoring resources, and managing availability and capacity.",
+          "URL": "https://www.credly.com/badges/55c12fba-daf1-45be-a84f-542a63026f83/public_url"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Cognos",
+            "type": "technology"
+          },
+          {
+            "name": "Datastage",
+            "type": "technology"
+          },
+          {
+            "name": "OpenShift",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Kubernetes for the Absolute Beginners",
