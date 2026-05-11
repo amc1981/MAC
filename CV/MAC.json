@@ -513,6 +513,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Red Hat System Administration I (RH124) - Ver. 10.0",
+        "startDate": "2026-05-01",
+        "institution": {
+          "name": "Red Hat",
+          "description": "This credential verifies the attendance of the Red Hat System Administration I (RH124) course. After attending the course, students are encouraged to take the Red Hat System Administration II (RH134).",
+          "URL": "https://www.credly.com/badges/94a2c714-de58-45f3-a2ef-90a2aac72d91/public_url"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "RedHat",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Seminario Resolución de Problemas Complejos",
