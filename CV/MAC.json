@@ -489,6 +489,15 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ITIL(r) 4 Foundation: Introduction",
+        "startDate": "2025-08-01",
+        "institution": {
+          "name": "Kyndryl"
+        }
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Kubernetes for the Absolute Beginners",
